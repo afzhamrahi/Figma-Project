@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+.connections{
+    margin: 0 400px;
+}
+.ConnectionsUl{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    text-decoration: none;
+}
+.ConnectionsUl li {
+    color: #fff;
+}
+.ConnectionsUl li  a{
+    color: #fff;
+    text-decoration: none;
+}
+.socialMedia{
+    margin: 100px 600px;
+    display: flex;
+    justify-content: space-between;
+}

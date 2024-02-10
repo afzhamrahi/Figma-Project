@@ -1,0 +1,82 @@
+.AbouteMeWrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+    border-bottom: 1px solid rgba(238, 238, 238, 0.1);
+    margin-bottom: 100px;
+}
+
+.abouteMeLeft {
+    width: 29%;
+    margin: 320px 0 110px 0;
+    position: relative;
+}
+
+.Vector141 {
+    display: block;
+    margin-left: 75px;
+    margin-bottom: 100px;
+
+}
+
+.Aboute {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0 0 0 75px;
+    /* margin-left: 75px; */
+    padding-top: 20px
+}
+
+.Me {
+    color: rgba(0, 173, 181, 1);
+
+}
+
+.lorem {
+    width: 72%;
+    color: #fff;
+    font-size: 17px;
+    margin: 0;
+    margin-left: 75px;
+
+}
+
+.lorem span {
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.lightbulb {
+    position: absolute;
+    margin-left: 345px;
+}
+
+.vector186 {
+    margin: 70px 0 0 190px;
+}
+
+.abouteMeRight {
+    margin-top: 420px;
+}
+
+.mainAboute {
+    margin: 0px 0 0 280px;
+    width: 665px;
+    height: 499px;
+    background-image: url("/public/doodleItems.png");
+}
+
+.Group62 {
+    margin: 220px 0 0 110px;
+    position: relative;
+}
+
+.Group2350 {
+    position: absolute;
+    margin: 210px 0 0 200px;
+}
+
+.Ellipse3 {
+    margin:-10px 0 0 140px;
+}

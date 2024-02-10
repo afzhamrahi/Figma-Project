@@ -1,0 +1,57 @@
+.recentWorksContainer {
+    background-image: url("/public/doodle\ items\ \(3\).png");
+    width: 100%;
+    height: auto;
+}
+.recentWorksTop{
+    width: 100%;
+    display: flex;
+}
+.recentWorksElement {
+    margin: 300px 0 0 110px;
+}
+.recentWorksElement p{
+    font-size: 64px;
+    font-weight: 700;
+    color: #FFF;
+    margin: 0;
+    padding: 0;
+}
+.recentWorksElement p span{
+    color: rgba(0, 173, 181, 1);
+
+}
+.recentWorksButtons{
+    margin: 20px 20px 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+.recentWorksButtons .colorBlue{
+    background-color: rgba(0, 173, 181, 1);
+
+}
+.recentWorksBtn{
+    background-color: rgba(57, 62, 70, 0.5);
+    color: #FFF;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 35px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 100px;
+
+    
+}
+.recentWorksBotton{
+    width: 100%;  
+
+}
+.products{
+    margin: 0 110px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 200px;
+}

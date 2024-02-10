@@ -1,0 +1,149 @@
+/* .container{
+    background-image: url("/public/Home2.png");
+    background-size: 1162px;
+    background-repeat: no-repeat;
+} */
+.topbarWrapper {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid rgba(238, 238, 238, 0.1);
+    display: flex;
+}
+
+.topbarLeft {
+    width: 29%;
+    height: inherit;
+    border-right: 1px solid rgba(238, 238, 238, 0.1);
+}
+
+.h3TopLeft {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px  0;
+    color: #fff;
+}
+
+.topbarRight {
+    width: 70%;
+    display: flex;
+    justify-content: end;
+    float: right;
+}
+
+.TopbarRightUl {
+    width: 501px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* padding-right: 25px; */
+}
+
+.TopbarRightElements {
+    font-size: 14px;
+    list-style: none;
+}
+.TopbarRightElements button{
+    background: none;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+
+}
+.mainHome {
+    width: 100%;
+    height: 440px;
+    display: flex;
+    position: relative;
+}
+
+.mainLeft {
+    width: auto;
+    display: flex;
+    padding: 130px 280px 0 45px;
+}
+
+.mainLeft img {
+    width: 90px;
+    height: 220px;
+    margin-top: 125px;
+    padding-right: 20px;
+}
+
+.mainLeft p {
+    font-size: 80px;
+    font-weight: bolder;
+    color: rgba(238, 238, 238, 1);
+    margin: 75px 0 0 0;
+    padding: 0;
+}
+
+.mainLeft p span {
+    color: rgba(0, 173, 181, 1);
+    font-size: 77px;
+    margin-left: -4px;
+}
+
+
+
+.buttonBax {
+    margin-left: 160px;
+}
+
+.HireMe {
+    font-size: 13px;
+    font-weight: 700;
+    margin-right: 20px;
+    color: #fff;
+    background-color: rgba(0, 173, 181, 1);
+    padding: 8px 30px;
+    border-radius: 24px;
+    border: none;
+}
+
+.Download {
+    background-color: rgba(57, 62, 70, 0.75);
+    color: #fff;
+    padding: 5px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 24px;
+    border: none;
+
+}
+
+.downloadIcon {
+    width: 20px;
+    height: 16px;
+    margin-left: 10px;
+}
+.mainRight {
+    width: 450px;
+    height: 450px;
+    background-image: url("/public/round.png");
+    margin: 150px 30px 0 0;
+    z-index: 999;
+    /* border: 1px solid #fff; */
+    /* border-radius: 100%; */
+
+}
+
+.mianAdamak {
+    width: 100%;
+    margin: 182px 0px 0-34px;
+    height: 400px;
+    background-repeat: no-repeat;
+    filter: drop-shadow(0px 25px 10px black);
+    background-image: url("/public/Group2346.jpg");
+    z-index: 998;
+}
+
+.borderElement img{
+    position: sticky;
+    margin-top: 240px;
+    left: 384px;
+    width: 60px;
+    height: 60px;
+}
